@@ -16,9 +16,6 @@
     "WebRTC"
   ],
   "license": "MIT",
-  "dependencies": {
-    "webrtc-adapter": "^2.0.2"
-  },
   "testling": {
     "files": "test/test.js"
   },
